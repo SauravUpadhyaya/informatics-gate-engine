@@ -1,1 +1,0 @@
-# informatics-gate-engine

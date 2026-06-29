@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
@@ -135,6 +138,10 @@ celerybeat.pid
 *.rdb
 *.aof
 *.pid
+
+*.sh
+*.ts
+*.toml
 
 # RabbitMQ
 mnesia/
