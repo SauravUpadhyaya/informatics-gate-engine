@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.idea
+*.claude
+*.imi
 
 .DS_Store
 
@@ -223,3 +225,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+cotiviti/
