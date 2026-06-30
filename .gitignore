@@ -9,6 +9,26 @@ __pycache__/
 *.claude
 *.imi
 
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# APP related
+*.toml
+!config.toml.example
+*.db
+chroma_db/
+nltk_data/
+
+# Python
+_pycache_/
+*.py[cod]
+venv/
+.venv/
+env/
 .DS_Store
 
 # Distribution / packaging
