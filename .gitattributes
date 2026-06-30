@@ -1,3 +1,2 @@
-*.ppt filter=lfs diff=lfs merge=lfs -text
 documents/saurav_upadhyaya_presentation.mp4 filter=lfs diff=lfs merge=lfs -text
 documents/saurav_product_demo_with_camera_use.mp4 filter=lfs diff=lfs merge=lfs -text
