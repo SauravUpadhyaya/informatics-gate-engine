@@ -6,9 +6,9 @@ A web-based platform that ingests CMS synthetic claims (DE-SynPUF), cross-refere
 
 Built for payer analytics teams with a FastAPI backend, SQLite persistence, and a React dashboard.
 
+---
 
 ## Quick Start
-
 
 ### 1. Start the backend
 
@@ -108,6 +108,8 @@ curl -X POST "http://localhost:8000/api/v1/ingest/ncci" \
 - Flags claims where procedure complexity exceeds baseline by **z ≥ 2.5** or above **P90 + margin**
 - Example: minor respiratory infection (465) billed with cardiac cath (93458)
 
+---
+
 ## Project Structure
 
 ```
@@ -132,6 +134,7 @@ HEALTH_PROJECT/
 │   └── download_cms_data.py
 └── docker-compose.yml
 ```
+---
 
 ## Docker
 
@@ -144,6 +147,8 @@ docker compose up --build
 - API docs: http://localhost:8000/docs
 
 
+---
+---
 
 
 # B. LangGraph Text-to-SQL Microservice
@@ -251,7 +256,9 @@ If the module fails to safely import `cotiviti.assistant.agent`, the engine auto
 
 ## Product Demonstration
 
-https://drive.google.com/file/d/1X-IBygdv5svaDIxrYri_V3qOYM1GKBIY/view?usp=sharing
+[Sample_1](https://drive.google.com/file/d/1X-IBygdv5svaDIxrYri_V3qOYM1GKBIY/view?usp=sharing)
+
+---
 
 ## Appendix
 
