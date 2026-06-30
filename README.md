@@ -246,3 +246,28 @@ If the module fails to safely import `cotiviti.assistant.agent`, the engine auto
 1. **Financial Metrics:** Highest overpayment traces.
 2. **Aggregations:** Unique base MS-DRG frequency summaries.
 3. **Compliance Codes:** National NCCI edit validations and unbundling exceptions.
+
+
+
+## Product Demonstration
+
+![Demo:](https://drive.google.com/file/d/1X-IBygdv5svaDIxrYri_V3qOYM1GKBIY/view?usp=sharing)
+
+## Appendix
+
+![App Screenshot](demo_images/sample_1.png)
+
+---
+
+![App Screenshot](demo_images/sample_2.png)
+
+
+---
+
+![App Screenshot](demo_images/sample_3.png)
+
+----
+
+
+![App Screenshot](demo_images/sample_4.png)
+
