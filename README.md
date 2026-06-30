@@ -254,12 +254,6 @@ If the module fails to safely import `cotiviti.assistant.agent`, the engine auto
 
 ---
 
-## Product Demonstration
-
-[Sample_1](https://drive.google.com/file/d/1X-IBygdv5svaDIxrYri_V3qOYM1GKBIY/view?usp=sharing)
-
----
-
 ## Appendix
 
 ![App Screenshot](demo_images/sample_1.png)
